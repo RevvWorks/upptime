@@ -4,17 +4,19 @@
     "url": "https://revv.works",
     "icon": "https://icons.duckduckgo.com/ip3/revv.works.ico",
     "slug": "revv-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 105,
-    "timeWeek": 244,
-    "timeMonth": 285,
+    "timeDay": 156,
+    "timeWeek": 239,
+    "timeMonth": 283,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
