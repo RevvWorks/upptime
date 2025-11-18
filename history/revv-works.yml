@@ -1,7 +1,7 @@
 url: https://revv.works
-status: up
-code: 200
-responseTime: 105
-lastUpdated: 2025-11-17T23:16:13.542Z
+status: down
+code: 500
+responseTime: 206
+lastUpdated: 2025-11-18T11:35:22.705Z
 startTime: 2025-04-02T15:39:10.153Z
 generator: Upptime <https://github.com/upptime/upptime>
